@@ -1,0 +1,101 @@
+#
+#  quadtone curve descriptor file
+#
+#
+# the printer name
+# the curve name
+#   no spaces or special characters, except - or _  (dash or underscore)
+#
+
+CALIBRATION=NO
+GRAPH_CURVE=NO
+
+#
+# number of inks must be 4, 6, or 7
+# the ink limits are percentages
+#   usually they are all the same but they can be individually set
+#
+N_OF_INKS=7
+DEFAULT_INK_LIMIT=75
+
+LIMIT_K=
+BOOST_K=95
+LIMIT_C=
+LIMIT_M=
+LIMIT_Y=
+LIMIT_LC=
+LIMIT_LM=
+LIMIT_LK=
+
+#
+#  Describe Usage of each Ink: K,C,M,Y,LC,LM,LK
+#    All Inks of Printer must be listed
+#
+
+#
+# Gray Partitioning Information
+#
+N_OF_GRAY_PARTS=7
+GRAY_INK_1=K
+GRAY_VAL_1=100
+
+GRAY_INK_2=LK
+GRAY_VAL_2=45
+
+GRAY_INK_3=C
+GRAY_VAL_3=28
+
+GRAY_INK_4=LC
+GRAY_VAL_4=17
+
+GRAY_INK_5=M
+GRAY_VAL_5=6.8
+
+GRAY_INK_6=LM
+GRAY_VAL_6=3
+
+GRAY_INK_7=Y
+GRAY_VAL_7=1.5
+
+GRAY_HIGHLIGHT=6
+GRAY_SHADOW=10
+GRAY_OVERLAP=10
+
+GRAY_GAMMA=1
+GRAY_CURVE=
+
+#
+# Toner Partition Information
+#
+N_OF_TONER_PARTS=0
+TONER_INK_1=
+TONER_VAL_1=
+TONER_INK_2=
+TONER_VAL_2=
+
+TONER_HIGHLIGHT=2
+TONER_SHADOW=2
+
+TONER_GAMMA=1
+TONER_CURVE=
+
+#
+# Unused Inks
+#
+N_OF_UNUSED=0
+UNUSED_INK_1=
+UNUSED_INK_2=
+UNUSED_INK_3=
+UNUSED_INK_4=
+
+#
+# the following is a special UltraChrome ink flag it copies the
+# light-black curves to the light-cyan, light-magenta and yellow inks.
+# this insures that the LC and LM inks are used to directly neutralize
+# the color of the light-black.
+# the color balance of inks is controlled by the LIMIT_... values above.
+#
+UC_NEUTRALIZER=NO
+
+LINEARIZE="96.55 92.14 86.45 81.02 75.65 70.55 64.85 59.60 54.62 50.06 45.73 41.99 37.63 33.91 30.95 27.75 25.01 21.80 19.84 18.43 16.95"
+
