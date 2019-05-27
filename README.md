@@ -1,6 +1,6 @@
 # Piezography Community Edition
 
-This is the open-source Piezography Community Edition software. It consists of an archive of curves for Piezography ink sets and printer combos, soft-proof and print ICC profiles, and helpful tools. We are open-sourcing this software for in the hope that others will contribute their curves and print ICCs for various media. What is also included is the initial build folders (Windows and Mac) for the project. Building and distributing the package falls to InkjetMall. 
+This is the open-source Piezography Community Edition software. It consists of an archive of curves for Piezography ink sets and printer combos, soft-proof and print ICC profiles, and helpful tools. We are open-sourcing this 'software' in the hope that others will contribute their curves and print ICCs for various media. What is also included is the initial build folders (Windows and Mac) for the project. Building and distributing the package falls to InkjetMall. 
 
 ## Getting Started
 
