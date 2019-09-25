@@ -450,7 +450,7 @@
 				<key>POSTINSTALL_PATH</key>
 				<dict>
 					<key>PATH</key>
-					<string>Sources/postflight.sh</string>
+					<string>Sources/post-install-upgrade.sh</string>
 					<key>PATH_TYPE</key>
 					<integer>1</integer>
 				</dict>
@@ -716,7 +716,7 @@
 						<key>LANGUAGE</key>
 						<string>English</string>
 						<key>VALUE</key>
-						<string>Piezography-Community-Edition v2.05</string>
+						<string>Piezography-Community-Edition v3.01</string>
 					</dict>
 				</array>
 			</dict>
@@ -917,7 +917,7 @@
 				</dict>
 			</array>
 			<key>NAME</key>
-			<string>Piezography-Community-Edition-v2.05</string>
+			<string>Piezography-Community-Edition-v3.01</string>
 			<key>PAYLOAD_ONLY</key>
 			<false/>
 			<key>TREAT_MISSING_PRESENTATION_DOCUMENTS_AS_WARNING</key>
