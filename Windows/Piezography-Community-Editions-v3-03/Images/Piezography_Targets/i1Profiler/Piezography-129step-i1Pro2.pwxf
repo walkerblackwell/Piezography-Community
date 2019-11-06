@@ -1,0 +1,2258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cc:CxF xmlns:cc="http://colorexchangeformat.com/CxF3-core" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<cc:FileInformation>
+		<cc:Creator>X-Rite - Prism</cc:Creator>
+		<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+		<cc:Description>Prism CXF3 file</cc:Description>
+		<cc:Tag Name="PrismAppName" Value="i1Profiler"/>
+		<cc:Tag Name="PrismAppVersion" Value="1.1.0"/>
+	</cc:FileInformation>
+	<cc:Resources>
+		<cc:ObjectCollection>
+			<cc:Object ObjectType="Target" Name="Target1" Id="c1">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>255</cc:R>
+						<cc:G>255</cc:G>
+						<cc:B>255</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="0"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="0"/>
+					<cc:Tag Name="SampleID" Value="1"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target2" Id="c2">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>253</cc:R>
+						<cc:G>253</cc:G>
+						<cc:B>253</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="0"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="1"/>
+					<cc:Tag Name="SampleID" Value="2"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target3" Id="c3">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>251</cc:R>
+						<cc:G>251</cc:G>
+						<cc:B>251</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="0"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="2"/>
+					<cc:Tag Name="SampleID" Value="3"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target4" Id="c4">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>249</cc:R>
+						<cc:G>249</cc:G>
+						<cc:B>249</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="0"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="3"/>
+					<cc:Tag Name="SampleID" Value="4"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target5" Id="c5">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>247</cc:R>
+						<cc:G>247</cc:G>
+						<cc:B>247</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="0"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="4"/>
+					<cc:Tag Name="SampleID" Value="5"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target6" Id="c6">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>245</cc:R>
+						<cc:G>245</cc:G>
+						<cc:B>245</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="0"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="5"/>
+					<cc:Tag Name="SampleID" Value="6"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target7" Id="c7">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>243</cc:R>
+						<cc:G>243</cc:G>
+						<cc:B>243</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="0"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="6"/>
+					<cc:Tag Name="SampleID" Value="7"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target8" Id="c8">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>241</cc:R>
+						<cc:G>241</cc:G>
+						<cc:B>241</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="0"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="7"/>
+					<cc:Tag Name="SampleID" Value="8"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target9" Id="c9">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>239</cc:R>
+						<cc:G>239</cc:G>
+						<cc:B>239</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="0"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="8"/>
+					<cc:Tag Name="SampleID" Value="9"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target10" Id="c10">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>237</cc:R>
+						<cc:G>237</cc:G>
+						<cc:B>237</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="0"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="9"/>
+					<cc:Tag Name="SampleID" Value="10"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target11" Id="c11">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>235</cc:R>
+						<cc:G>235</cc:G>
+						<cc:B>235</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="1"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="0"/>
+					<cc:Tag Name="SampleID" Value="11"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target12" Id="c12">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>233</cc:R>
+						<cc:G>233</cc:G>
+						<cc:B>233</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="1"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="1"/>
+					<cc:Tag Name="SampleID" Value="12"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target13" Id="c13">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>231</cc:R>
+						<cc:G>231</cc:G>
+						<cc:B>231</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="1"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="2"/>
+					<cc:Tag Name="SampleID" Value="13"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target14" Id="c14">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>229</cc:R>
+						<cc:G>229</cc:G>
+						<cc:B>229</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="1"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="3"/>
+					<cc:Tag Name="SampleID" Value="14"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target15" Id="c15">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>227</cc:R>
+						<cc:G>227</cc:G>
+						<cc:B>227</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="1"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="4"/>
+					<cc:Tag Name="SampleID" Value="15"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target16" Id="c16">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>225</cc:R>
+						<cc:G>225</cc:G>
+						<cc:B>225</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="1"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="5"/>
+					<cc:Tag Name="SampleID" Value="16"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target17" Id="c17">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>223</cc:R>
+						<cc:G>223</cc:G>
+						<cc:B>223</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="1"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="6"/>
+					<cc:Tag Name="SampleID" Value="17"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target18" Id="c18">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>221</cc:R>
+						<cc:G>221</cc:G>
+						<cc:B>221</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="1"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="7"/>
+					<cc:Tag Name="SampleID" Value="18"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target19" Id="c19">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>219</cc:R>
+						<cc:G>219</cc:G>
+						<cc:B>219</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="1"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="8"/>
+					<cc:Tag Name="SampleID" Value="19"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target20" Id="c20">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>217</cc:R>
+						<cc:G>217</cc:G>
+						<cc:B>217</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="1"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="9"/>
+					<cc:Tag Name="SampleID" Value="20"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target21" Id="c21">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>215</cc:R>
+						<cc:G>215</cc:G>
+						<cc:B>215</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="2"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="0"/>
+					<cc:Tag Name="SampleID" Value="21"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target22" Id="c22">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>213</cc:R>
+						<cc:G>213</cc:G>
+						<cc:B>213</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="2"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="1"/>
+					<cc:Tag Name="SampleID" Value="22"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target23" Id="c23">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>211</cc:R>
+						<cc:G>211</cc:G>
+						<cc:B>211</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="2"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="2"/>
+					<cc:Tag Name="SampleID" Value="23"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target24" Id="c24">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>209</cc:R>
+						<cc:G>209</cc:G>
+						<cc:B>209</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="2"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="3"/>
+					<cc:Tag Name="SampleID" Value="24"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target25" Id="c25">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>207</cc:R>
+						<cc:G>207</cc:G>
+						<cc:B>207</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="2"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="4"/>
+					<cc:Tag Name="SampleID" Value="25"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target26" Id="c26">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>205</cc:R>
+						<cc:G>205</cc:G>
+						<cc:B>205</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="2"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="5"/>
+					<cc:Tag Name="SampleID" Value="26"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target27" Id="c27">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>203</cc:R>
+						<cc:G>203</cc:G>
+						<cc:B>203</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="2"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="6"/>
+					<cc:Tag Name="SampleID" Value="27"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target28" Id="c28">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>201</cc:R>
+						<cc:G>201</cc:G>
+						<cc:B>201</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="2"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="7"/>
+					<cc:Tag Name="SampleID" Value="28"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target29" Id="c29">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>199</cc:R>
+						<cc:G>199</cc:G>
+						<cc:B>199</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="2"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="8"/>
+					<cc:Tag Name="SampleID" Value="29"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target30" Id="c30">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>197</cc:R>
+						<cc:G>197</cc:G>
+						<cc:B>197</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="2"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="9"/>
+					<cc:Tag Name="SampleID" Value="30"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target31" Id="c31">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>195</cc:R>
+						<cc:G>195</cc:G>
+						<cc:B>195</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="3"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="0"/>
+					<cc:Tag Name="SampleID" Value="31"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target32" Id="c32">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>193</cc:R>
+						<cc:G>193</cc:G>
+						<cc:B>193</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="3"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="1"/>
+					<cc:Tag Name="SampleID" Value="32"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target33" Id="c33">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>191</cc:R>
+						<cc:G>191</cc:G>
+						<cc:B>191</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="3"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="2"/>
+					<cc:Tag Name="SampleID" Value="33"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target34" Id="c34">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>189</cc:R>
+						<cc:G>189</cc:G>
+						<cc:B>189</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="3"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="3"/>
+					<cc:Tag Name="SampleID" Value="34"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target35" Id="c35">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>187</cc:R>
+						<cc:G>187</cc:G>
+						<cc:B>187</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="3"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="4"/>
+					<cc:Tag Name="SampleID" Value="35"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target36" Id="c36">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>185</cc:R>
+						<cc:G>185</cc:G>
+						<cc:B>185</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="3"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="5"/>
+					<cc:Tag Name="SampleID" Value="36"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target37" Id="c37">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>183</cc:R>
+						<cc:G>183</cc:G>
+						<cc:B>183</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="3"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="6"/>
+					<cc:Tag Name="SampleID" Value="37"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target38" Id="c38">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>181</cc:R>
+						<cc:G>181</cc:G>
+						<cc:B>181</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="3"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="7"/>
+					<cc:Tag Name="SampleID" Value="38"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target39" Id="c39">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>179</cc:R>
+						<cc:G>179</cc:G>
+						<cc:B>179</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="3"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="8"/>
+					<cc:Tag Name="SampleID" Value="39"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target40" Id="c40">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>177</cc:R>
+						<cc:G>177</cc:G>
+						<cc:B>177</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="3"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="9"/>
+					<cc:Tag Name="SampleID" Value="40"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target41" Id="c41">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>175</cc:R>
+						<cc:G>175</cc:G>
+						<cc:B>175</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="4"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="0"/>
+					<cc:Tag Name="SampleID" Value="41"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target42" Id="c42">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>173</cc:R>
+						<cc:G>173</cc:G>
+						<cc:B>173</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="4"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="1"/>
+					<cc:Tag Name="SampleID" Value="42"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target43" Id="c43">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>171</cc:R>
+						<cc:G>171</cc:G>
+						<cc:B>171</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="4"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="2"/>
+					<cc:Tag Name="SampleID" Value="43"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target44" Id="c44">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>169</cc:R>
+						<cc:G>169</cc:G>
+						<cc:B>169</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="4"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="3"/>
+					<cc:Tag Name="SampleID" Value="44"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target45" Id="c45">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>167</cc:R>
+						<cc:G>167</cc:G>
+						<cc:B>167</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="4"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="4"/>
+					<cc:Tag Name="SampleID" Value="45"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target46" Id="c46">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>165</cc:R>
+						<cc:G>165</cc:G>
+						<cc:B>165</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="4"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="5"/>
+					<cc:Tag Name="SampleID" Value="46"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target47" Id="c47">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>163</cc:R>
+						<cc:G>163</cc:G>
+						<cc:B>163</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="4"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="6"/>
+					<cc:Tag Name="SampleID" Value="47"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target48" Id="c48">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>161</cc:R>
+						<cc:G>161</cc:G>
+						<cc:B>161</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="4"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="7"/>
+					<cc:Tag Name="SampleID" Value="48"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target49" Id="c49">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>159</cc:R>
+						<cc:G>159</cc:G>
+						<cc:B>159</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="4"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="8"/>
+					<cc:Tag Name="SampleID" Value="49"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target50" Id="c50">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>157</cc:R>
+						<cc:G>157</cc:G>
+						<cc:B>157</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="4"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="9"/>
+					<cc:Tag Name="SampleID" Value="50"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target51" Id="c51">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>155</cc:R>
+						<cc:G>155</cc:G>
+						<cc:B>155</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="5"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="0"/>
+					<cc:Tag Name="SampleID" Value="51"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target52" Id="c52">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>153</cc:R>
+						<cc:G>153</cc:G>
+						<cc:B>153</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="5"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="1"/>
+					<cc:Tag Name="SampleID" Value="52"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target53" Id="c53">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>151</cc:R>
+						<cc:G>151</cc:G>
+						<cc:B>151</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="5"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="2"/>
+					<cc:Tag Name="SampleID" Value="53"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target54" Id="c54">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>149</cc:R>
+						<cc:G>149</cc:G>
+						<cc:B>149</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="5"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="3"/>
+					<cc:Tag Name="SampleID" Value="54"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target55" Id="c55">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>147</cc:R>
+						<cc:G>147</cc:G>
+						<cc:B>147</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="5"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="4"/>
+					<cc:Tag Name="SampleID" Value="55"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target56" Id="c56">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>145</cc:R>
+						<cc:G>145</cc:G>
+						<cc:B>145</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="5"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="5"/>
+					<cc:Tag Name="SampleID" Value="56"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target57" Id="c57">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>143</cc:R>
+						<cc:G>143</cc:G>
+						<cc:B>143</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="5"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="6"/>
+					<cc:Tag Name="SampleID" Value="57"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target58" Id="c58">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>141</cc:R>
+						<cc:G>141</cc:G>
+						<cc:B>141</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="5"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="7"/>
+					<cc:Tag Name="SampleID" Value="58"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target59" Id="c59">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>139</cc:R>
+						<cc:G>139</cc:G>
+						<cc:B>139</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="5"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="8"/>
+					<cc:Tag Name="SampleID" Value="59"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target60" Id="c60">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>137</cc:R>
+						<cc:G>137</cc:G>
+						<cc:B>137</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="5"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="9"/>
+					<cc:Tag Name="SampleID" Value="60"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target61" Id="c61">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>135</cc:R>
+						<cc:G>135</cc:G>
+						<cc:B>135</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="6"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="0"/>
+					<cc:Tag Name="SampleID" Value="61"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target62" Id="c62">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>133</cc:R>
+						<cc:G>133</cc:G>
+						<cc:B>133</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="6"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="1"/>
+					<cc:Tag Name="SampleID" Value="62"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target63" Id="c63">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>131</cc:R>
+						<cc:G>131</cc:G>
+						<cc:B>131</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="6"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="2"/>
+					<cc:Tag Name="SampleID" Value="63"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target64" Id="c64">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>129</cc:R>
+						<cc:G>129</cc:G>
+						<cc:B>129</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="6"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="3"/>
+					<cc:Tag Name="SampleID" Value="64"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target65" Id="c65">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>127</cc:R>
+						<cc:G>127</cc:G>
+						<cc:B>127</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="6"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="4"/>
+					<cc:Tag Name="SampleID" Value="65"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target66" Id="c66">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>125</cc:R>
+						<cc:G>125</cc:G>
+						<cc:B>125</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="6"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="5"/>
+					<cc:Tag Name="SampleID" Value="66"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target67" Id="c67">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>123</cc:R>
+						<cc:G>123</cc:G>
+						<cc:B>123</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="6"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="6"/>
+					<cc:Tag Name="SampleID" Value="67"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target68" Id="c68">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>121</cc:R>
+						<cc:G>121</cc:G>
+						<cc:B>121</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="6"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="7"/>
+					<cc:Tag Name="SampleID" Value="68"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target69" Id="c69">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>119</cc:R>
+						<cc:G>119</cc:G>
+						<cc:B>119</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="6"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="8"/>
+					<cc:Tag Name="SampleID" Value="69"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target70" Id="c70">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>117</cc:R>
+						<cc:G>117</cc:G>
+						<cc:B>117</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="6"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="9"/>
+					<cc:Tag Name="SampleID" Value="70"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target71" Id="c71">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>115</cc:R>
+						<cc:G>115</cc:G>
+						<cc:B>115</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="7"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="0"/>
+					<cc:Tag Name="SampleID" Value="71"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target72" Id="c72">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>113</cc:R>
+						<cc:G>113</cc:G>
+						<cc:B>113</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="7"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="1"/>
+					<cc:Tag Name="SampleID" Value="72"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target73" Id="c73">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>111</cc:R>
+						<cc:G>111</cc:G>
+						<cc:B>111</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="7"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="2"/>
+					<cc:Tag Name="SampleID" Value="73"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target74" Id="c74">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>109</cc:R>
+						<cc:G>109</cc:G>
+						<cc:B>109</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="7"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="3"/>
+					<cc:Tag Name="SampleID" Value="74"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target75" Id="c75">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>107</cc:R>
+						<cc:G>107</cc:G>
+						<cc:B>107</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="7"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="4"/>
+					<cc:Tag Name="SampleID" Value="75"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target76" Id="c76">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>105</cc:R>
+						<cc:G>105</cc:G>
+						<cc:B>105</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="7"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="5"/>
+					<cc:Tag Name="SampleID" Value="76"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target77" Id="c77">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>103</cc:R>
+						<cc:G>103</cc:G>
+						<cc:B>103</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="7"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="6"/>
+					<cc:Tag Name="SampleID" Value="77"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target78" Id="c78">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>101</cc:R>
+						<cc:G>101</cc:G>
+						<cc:B>101</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="7"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="7"/>
+					<cc:Tag Name="SampleID" Value="78"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target79" Id="c79">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>99</cc:R>
+						<cc:G>99</cc:G>
+						<cc:B>99</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="7"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="8"/>
+					<cc:Tag Name="SampleID" Value="79"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target80" Id="c80">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>97</cc:R>
+						<cc:G>97</cc:G>
+						<cc:B>97</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="7"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="9"/>
+					<cc:Tag Name="SampleID" Value="80"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target81" Id="c81">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>95</cc:R>
+						<cc:G>95</cc:G>
+						<cc:B>95</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="8"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="0"/>
+					<cc:Tag Name="SampleID" Value="81"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target82" Id="c82">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>93</cc:R>
+						<cc:G>93</cc:G>
+						<cc:B>93</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="8"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="1"/>
+					<cc:Tag Name="SampleID" Value="82"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target83" Id="c83">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>91</cc:R>
+						<cc:G>91</cc:G>
+						<cc:B>91</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="8"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="2"/>
+					<cc:Tag Name="SampleID" Value="83"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target84" Id="c84">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>89</cc:R>
+						<cc:G>89</cc:G>
+						<cc:B>89</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="8"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="3"/>
+					<cc:Tag Name="SampleID" Value="84"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target85" Id="c85">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>87</cc:R>
+						<cc:G>87</cc:G>
+						<cc:B>87</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="8"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="4"/>
+					<cc:Tag Name="SampleID" Value="85"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target86" Id="c86">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>85</cc:R>
+						<cc:G>85</cc:G>
+						<cc:B>85</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="8"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="5"/>
+					<cc:Tag Name="SampleID" Value="86"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target87" Id="c87">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>83</cc:R>
+						<cc:G>83</cc:G>
+						<cc:B>83</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="8"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="6"/>
+					<cc:Tag Name="SampleID" Value="87"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target88" Id="c88">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>81</cc:R>
+						<cc:G>81</cc:G>
+						<cc:B>81</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="8"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="7"/>
+					<cc:Tag Name="SampleID" Value="88"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target89" Id="c89">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>79</cc:R>
+						<cc:G>79</cc:G>
+						<cc:B>79</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="8"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="8"/>
+					<cc:Tag Name="SampleID" Value="89"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target90" Id="c90">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>77</cc:R>
+						<cc:G>77</cc:G>
+						<cc:B>77</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="8"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="9"/>
+					<cc:Tag Name="SampleID" Value="90"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target91" Id="c91">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>75</cc:R>
+						<cc:G>75</cc:G>
+						<cc:B>75</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="9"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="0"/>
+					<cc:Tag Name="SampleID" Value="91"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target92" Id="c92">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>73</cc:R>
+						<cc:G>73</cc:G>
+						<cc:B>73</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="9"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="1"/>
+					<cc:Tag Name="SampleID" Value="92"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target93" Id="c93">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>71</cc:R>
+						<cc:G>71</cc:G>
+						<cc:B>71</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="9"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="2"/>
+					<cc:Tag Name="SampleID" Value="93"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target94" Id="c94">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>69</cc:R>
+						<cc:G>69</cc:G>
+						<cc:B>69</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="9"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="3"/>
+					<cc:Tag Name="SampleID" Value="94"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target95" Id="c95">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>67</cc:R>
+						<cc:G>67</cc:G>
+						<cc:B>67</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="9"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="4"/>
+					<cc:Tag Name="SampleID" Value="95"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target96" Id="c96">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>65</cc:R>
+						<cc:G>65</cc:G>
+						<cc:B>65</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="9"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="5"/>
+					<cc:Tag Name="SampleID" Value="96"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target97" Id="c97">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>63</cc:R>
+						<cc:G>63</cc:G>
+						<cc:B>63</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="9"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="6"/>
+					<cc:Tag Name="SampleID" Value="97"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target98" Id="c98">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>61</cc:R>
+						<cc:G>61</cc:G>
+						<cc:B>61</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="9"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="7"/>
+					<cc:Tag Name="SampleID" Value="98"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target99" Id="c99">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>59</cc:R>
+						<cc:G>59</cc:G>
+						<cc:B>59</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="9"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="8"/>
+					<cc:Tag Name="SampleID" Value="99"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target100" Id="c100">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>57</cc:R>
+						<cc:G>57</cc:G>
+						<cc:B>57</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="9"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="9"/>
+					<cc:Tag Name="SampleID" Value="100"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target101" Id="c101">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>55</cc:R>
+						<cc:G>55</cc:G>
+						<cc:B>55</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="10"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="0"/>
+					<cc:Tag Name="SampleID" Value="101"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target102" Id="c102">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>53</cc:R>
+						<cc:G>53</cc:G>
+						<cc:B>53</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="10"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="1"/>
+					<cc:Tag Name="SampleID" Value="102"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target103" Id="c103">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>51</cc:R>
+						<cc:G>51</cc:G>
+						<cc:B>51</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="10"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="2"/>
+					<cc:Tag Name="SampleID" Value="103"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target104" Id="c104">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>49</cc:R>
+						<cc:G>49</cc:G>
+						<cc:B>49</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="10"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="3"/>
+					<cc:Tag Name="SampleID" Value="104"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target105" Id="c105">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>47</cc:R>
+						<cc:G>47</cc:G>
+						<cc:B>47</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="10"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="4"/>
+					<cc:Tag Name="SampleID" Value="105"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target106" Id="c106">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>45</cc:R>
+						<cc:G>45</cc:G>
+						<cc:B>45</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="10"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="5"/>
+					<cc:Tag Name="SampleID" Value="106"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target107" Id="c107">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>43</cc:R>
+						<cc:G>43</cc:G>
+						<cc:B>43</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="10"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="6"/>
+					<cc:Tag Name="SampleID" Value="107"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target108" Id="c108">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>41</cc:R>
+						<cc:G>41</cc:G>
+						<cc:B>41</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="10"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="7"/>
+					<cc:Tag Name="SampleID" Value="108"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target109" Id="c109">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>39</cc:R>
+						<cc:G>39</cc:G>
+						<cc:B>39</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="10"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="8"/>
+					<cc:Tag Name="SampleID" Value="109"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target110" Id="c110">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>37</cc:R>
+						<cc:G>37</cc:G>
+						<cc:B>37</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="10"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="9"/>
+					<cc:Tag Name="SampleID" Value="110"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target111" Id="c111">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>35</cc:R>
+						<cc:G>35</cc:G>
+						<cc:B>35</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="11"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="0"/>
+					<cc:Tag Name="SampleID" Value="111"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target112" Id="c112">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>33</cc:R>
+						<cc:G>33</cc:G>
+						<cc:B>33</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="11"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="1"/>
+					<cc:Tag Name="SampleID" Value="112"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target113" Id="c113">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>31</cc:R>
+						<cc:G>31</cc:G>
+						<cc:B>31</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="11"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="2"/>
+					<cc:Tag Name="SampleID" Value="113"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target114" Id="c114">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>29</cc:R>
+						<cc:G>29</cc:G>
+						<cc:B>29</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="11"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="3"/>
+					<cc:Tag Name="SampleID" Value="114"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target115" Id="c115">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>27</cc:R>
+						<cc:G>27</cc:G>
+						<cc:B>27</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="11"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="4"/>
+					<cc:Tag Name="SampleID" Value="115"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target116" Id="c116">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>25</cc:R>
+						<cc:G>25</cc:G>
+						<cc:B>25</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="11"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="5"/>
+					<cc:Tag Name="SampleID" Value="116"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target117" Id="c117">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>23</cc:R>
+						<cc:G>23</cc:G>
+						<cc:B>23</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="11"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="6"/>
+					<cc:Tag Name="SampleID" Value="117"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target118" Id="c118">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>21</cc:R>
+						<cc:G>21</cc:G>
+						<cc:B>21</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="11"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="7"/>
+					<cc:Tag Name="SampleID" Value="118"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target119" Id="c119">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>19</cc:R>
+						<cc:G>19</cc:G>
+						<cc:B>19</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="11"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="8"/>
+					<cc:Tag Name="SampleID" Value="119"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target120" Id="c120">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>17</cc:R>
+						<cc:G>17</cc:G>
+						<cc:B>17</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="11"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="9"/>
+					<cc:Tag Name="SampleID" Value="120"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target121" Id="c121">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>15</cc:R>
+						<cc:G>15</cc:G>
+						<cc:B>15</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="12"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="0"/>
+					<cc:Tag Name="SampleID" Value="121"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target122" Id="c122">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>13</cc:R>
+						<cc:G>13</cc:G>
+						<cc:B>13</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="12"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="1"/>
+					<cc:Tag Name="SampleID" Value="122"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target123" Id="c123">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>11</cc:R>
+						<cc:G>11</cc:G>
+						<cc:B>11</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="12"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="2"/>
+					<cc:Tag Name="SampleID" Value="123"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target124" Id="c124">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>9</cc:R>
+						<cc:G>9</cc:G>
+						<cc:B>9</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="12"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="3"/>
+					<cc:Tag Name="SampleID" Value="124"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target125" Id="c125">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>7</cc:R>
+						<cc:G>7</cc:G>
+						<cc:B>7</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="12"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="4"/>
+					<cc:Tag Name="SampleID" Value="125"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target126" Id="c126">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>5</cc:R>
+						<cc:G>5</cc:G>
+						<cc:B>5</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="12"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="5"/>
+					<cc:Tag Name="SampleID" Value="126"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target127" Id="c127">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>3</cc:R>
+						<cc:G>3</cc:G>
+						<cc:B>3</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="12"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="6"/>
+					<cc:Tag Name="SampleID" Value="127"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target128" Id="c128">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>1</cc:R>
+						<cc:G>1</cc:G>
+						<cc:B>1</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="12"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="7"/>
+					<cc:Tag Name="SampleID" Value="128"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+			<cc:Object ObjectType="Target" Name="Target129" Id="c129">
+				<cc:CreationDate>2016-07-29T09:32:20-05:00</cc:CreationDate>
+				<cc:DeviceColorValues>
+					<cc:ColorRGB ColorSpecification="Unknown">
+						<cc:R>0</cc:R>
+						<cc:G>0</cc:G>
+						<cc:B>0</cc:B>
+					</cc:ColorRGB>
+				</cc:DeviceColorValues>
+				<cc:TagCollection Name="Location">
+					<cc:Tag Name="Column" Value="12"/>
+					<cc:Tag Name="Page" Value="1"/>
+					<cc:Tag Name="Row" Value="8"/>
+					<cc:Tag Name="SampleID" Value="129"/>
+					<cc:Tag Name="SampleName" Value=""/>
+				</cc:TagCollection>
+			</cc:Object>
+		</cc:ObjectCollection>
+		<cc:ColorSpecificationCollection>
+			<cc:ColorSpecification Id="Unknown">
+				<cc:MeasurementSpec>
+					<cc:MeasurementType>Colorimetric_Reflectance</cc:MeasurementType>
+					<cc:GeometryChoice>
+						<cc:UnknownGeometry>Target</cc:UnknownGeometry>
+					</cc:GeometryChoice>
+				</cc:MeasurementSpec>
+			</cc:ColorSpecification>
+		</cc:ColorSpecificationCollection>
+	</cc:Resources>
+	<cc:CustomResources>
+		<xrp:Prism xmlns:xrp="http://www.xrite.com/products/prism" release="2.0">
+  <xrp:CustomAttributes BarCodeEnabled="False" ColorCorrectionPatchCount="None" ColorSpace="RGB" DarkLightRatio="50" DimensionUnit="in" HeaderEdgeSizePercent="-2147483648" ImagePath="" InkLimit="300" LockWriteProtection="True" LowTestChartResolution="False" MeasurementDevice="i1Pro 2" MeasurementDeviceSerialNumber="0" MeasurementMode="Dual Scan" MeasurementPerPatch="0" NumberPatchColumns="13" NumberPatchPages="1" NumberPatchRows="10" OptimizeProfile="" PLUS_1_COLOR="Orange|68.02|43.06|68.15|1|2|50|50|1" PLUS_2_COLOR="Green|87.82|-81.04|71.47|1|2|50|50|2" PLUS_3_COLOR="Red|54.28|78.98|64.91|1|2|50|50|3" PLUS_4_COLOR="Blue|29.57|67.02|-128|1|2|50|50|4" PageHeight="279.40" PageWidth="215.90" Paper="Plain" PaperFormat="Paper Size Letter  8.5 x 11 in" PaperOrientation="Portrait" PaperType="Not Specified (default)" PatchSizeHeightPercent="85.75" PatchSizeHeightValue="11.43" PatchSizeWidthPercent="24.6111" PatchSizeWidthValue="11.43" PrintMarginBottom="6.35" PrintMarginLeft="14.22" PrintMarginRight="14.22" PrintMarginTop="6.35" PrinterName="CMYK Printer" PrinterType="Not specified (default)" ScramblePatches="False" SelectedMeasurementCondition="Unknown" TestChartType="RGB Variable" TightMarginsEnabled="False" TitleString="129" UseLegacyTestChart="False" UsePatchSettingDefaults="False" WriteProtected="True" linearMeasurements="" numLinearSteps="28" numberCorePatches="129" numberImagePatches="0" numberSpotPatches="0" PerceptualType="Custom" ProfileWhitePointType="0" TableType="Custom" ControlWedgeType="" ProfileFilename="" ReferenceFileName="" WorkflowStep="Measurement" WorkflowType="PrinterProfilePro"/>
+  <ProfileSettings DeviceType="Printer">
+    <!-- Members of ProfileParams -->
+    <ProfileVersion value="4"/>
+    <ChromaticAdaptation>Bradford</ChromaticAdaptation>
+    <!-- Members of PrinterProfileParams -->
+    <BlackGeneration>
+      <BlackType>2</BlackType>
+      <UseMaximumBlack>0</UseMaximumBlack>
+      <UseIntelligentBlack>1</UseIntelligentBlack>
+      <BlackWidth>50</BlackWidth>
+      <NumberOfCurvePoints>4</NumberOfCurvePoints>
+      <KPoints>0 0 18.9465 100 </KPoints>
+      <LPoints>0 30 65 100 </LPoints>
+      <CurveType>4</CurveType>
+    </BlackGeneration>
+    <InkLimiting>
+      <InkLimit>300</InkLimit>
+      <ColorSpace>5</ColorSpace>
+    </InkLimiting>
+    <ViewingEnvironment>
+      <IlluminantName/>
+      <IlluminantType>D50</IlluminantType>
+    </ViewingEnvironment>
+    <ProfileInkColorSpace>5</ProfileInkColorSpace>
+    <Saturation>50</Saturation>
+    <Smoothness>50</Smoothness>
+    <Contrast>50</Contrast>
+    <NeutralizeGray>0</NeutralizeGray>
+    <ChromaAdjust>50</ChromaAdjust>
+    <DarkeningForHighChroma>0</DarkeningForHighChroma>
+    <WhitePointPaperDeltaEThreshold>3.5</WhitePointPaperDeltaEThreshold>
+    <TableSizeAToB>Medium</TableSizeAToB>
+    <TableSizeBToA>Medium</TableSizeBToA>
+    <BitDepth>16</BitDepth>
+  </ProfileSettings>
+</xrp:Prism>
+
+	</cc:CustomResources>
+</cc:CxF>
