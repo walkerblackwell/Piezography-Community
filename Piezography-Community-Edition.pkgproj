@@ -491,7 +491,7 @@
 				<key>USE_HFS+_COMPRESSION</key>
 				<true/>
 				<key>VERSION</key>
-				<string>3.03</string>
+				<string>3.1</string>
 			</dict>
 			<key>TYPE</key>
 			<integer>0</integer>
@@ -718,7 +718,7 @@
 						<key>LANGUAGE</key>
 						<string>English</string>
 						<key>VALUE</key>
-						<string>Piezography-Community-Edition v3.03</string>
+						<string>Piezography-Community-Edition v3.1</string>
 					</dict>
 				</array>
 			</dict>
@@ -919,7 +919,7 @@
 				</dict>
 			</array>
 			<key>NAME</key>
-			<string>Piezography-Community-Edition-v3.03</string>
+			<string>Piezography-Community-Edition-v3.1</string>
 			<key>PAYLOAD_ONLY</key>
 			<false/>
 			<key>TREAT_MISSING_PRESENTATION_DOCUMENTS_AS_WARNING</key>
