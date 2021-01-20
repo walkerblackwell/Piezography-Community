@@ -1,89 +1,21 @@
 # Piezography Community Edition
 
-This is the open-source Piezography Community Edition software. It consists of an archive of curves for Piezography ink sets and printer combos, soft-proof and print ICC profiles, and helpful tools. We are open-sourcing this 'software' in the hope that others will contribute their curves and print ICCs for various media. We are all stronger together. 
+This is the "open" free Piezography Community Edition software. It consists of an archive of curves for Piezography ink sets and printer combos, soft-proof and print ICC profiles, and helpful tools. We are open-sourcing this 'software' in the hope that others will contribute their curves and print ICCs for various media. We are all stronger together. 
 
-What is also included is the initial build folders (Windows and Mac) for the project. Building and distributing the package falls to InkjetMall. 
+What it also included is the initial build folders (Windows and Mac) for the project. Building and distributing the package falls to InkjetMall. 
 
-## Getting Started
+## How to Contribute
 
-To get started, 
-
-### Prerequisites
-
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+If you notice any bugs in the community edition that is downloadabe for windows or mac at piezography.com, please post an issue in the issues tab above so it can be logged and properly fixed in order.
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+Versioning is simply in dot release eg: 3.1.1, 3.1.2 . . . 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+Walker Blackwell
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+This project is licensed only for distrobution by Cone Editions Press, InkjetMall, and Vermont Photo Inkjet LLC. However it can be downloaded and built for testing and debug purposes locally.
