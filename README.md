@@ -6,7 +6,7 @@ What it also included is the initial build folders (Windows and Mac) for the pro
 
 ## How to Contribute
 
-If you notice any bugs in the community edition that is downloadabe for windows or mac at piezography.com, please post an issue in the issues tab above so it can be logged and properly fixed in order.
+If you notice any bugs in the community edition at piezography.com, please post an issue in the issues tab above so it can be logged and properly fixed in order.
 
 ## Versioning
 
