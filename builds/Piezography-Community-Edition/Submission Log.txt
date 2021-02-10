@@ -1,0 +1,36 @@
+16:26:52.018: \****************************************************************************************
+Beginning staple only of file at '/Users/walker/Development/Piezography-Community/builds/Piezography-Community-Edition/Piezography-Community-Edition-v3.1.pkg'
+****************************************************************************************
+
+16:26:52.018: Checking code signature...
+16:26:52.406: Result for /usr/sbin/spctl --assess --type install -vv /Users/walker/Development/Piezography-Community/builds/Piezography-Community-Edition/Piezography-Community-Edition-v3.1.pkg
+Termination status: 3
+StandardOut: (null)
+StandardError: objc[32482]: Class SPExecutionPolicy is implemented in both /System/Library/PrivateFrameworks/SystemPolicy.framework/Versions/A/SystemPolicy and /usr/sbin/spctl. One of the two will be used. Which one is undefined.
+objc[32482]: Class AppWrapper is implemented in both /System/Library/PrivateFrameworks/SystemPolicy.framework/Versions/A/SystemPolicy and /usr/sbin/spctl. One of the two will be used. Which one is undefined.
+objc[32482]: Class AppWrapperPolicyResult is implemented in both /System/Library/PrivateFrameworks/SystemPolicy.framework/Versions/A/SystemPolicy and /usr/sbin/spctl. One of the two will be used. Which one is undefined.
+objc[32482]: Class AppWrapperPolicy is implemented in both /System/Library/PrivateFrameworks/SystemPolicy.framework/Versions/A/SystemPolicy and /usr/sbin/spctl. One of the two will be used. Which one is undefined.
+objc[32482]: Class SPLog is implemented in both /System/Library/PrivateFrameworks/SystemPolicy.framework/Versions/A/SystemPolicy and /usr/sbin/spctl. One of the two will be used. Which one is undefined.
+objc[32482]: Class MIS is implemented in both /System/Library/PrivateFrameworks/SystemPolicy.framework/Versions/A/SystemPolicy and /usr/sbin/spctl. One of the two will be used. Which one is undefined.
+objc[32482]: Class SPExecutionHistoryItem is implemented in both /System/Library/PrivateFrameworks/SystemPolicy.framework/Versions/A/SystemPolicy and /usr/sbin/spctl. One of the two will be used. Which one is undefined.
+objc[32482]: Class SPExecutionPolicyItem is implemented in both /System/Library/PrivateFrameworks/SystemPolicy.framework/Versions/A/SystemPolicy and /usr/sbin/spctl. One of the two will be used. Which one is undefined.
+objc[32482]: Class SPDeveloperPolicy is implemented in both /System/Library/PrivateFrameworks/SystemPolicy.framework/Versions/A/SystemPolicy and /usr/sbin/spctl. One of the two will be used. Which one is undefined.
+objc[32482]: Class GKScanResult is implemented in both /System/Library/PrivateFrameworks/SystemPolicy.framework/Versions/A/SystemPolicy and /usr/sbin/spctl. One of the two will be used. Which one is undefined.
+/Users/walker/Development/Piezography-Community/builds/Piezography-Community-Edition/Piezography-Community-Edition-v3.1.pkg: rejected
+source=Unnotarized Developer ID
+origin=Developer ID Installer: Walker Blackwell (E358X2LQLV)
+
+16:26:52.408: Error 105553179106192 in spctl codesign verification: objc[32482]: Class SPExecutionPolicy is implemented in both /System/Library/PrivateFrameworks/SystemPolicy.framework/Versions/A/SystemPolicy and /usr/sbin/spctl. One of the two will be used. Which one is undefined.
+objc[32482]: Class AppWrapper is implemented in both /System/Library/PrivateFrameworks/SystemPolicy.framework/Versions/A/SystemPolicy and /usr/sbin/spctl. One of the two will be used. Which one is undefined.
+objc[32482]: Class AppWrapperPolicyResult is implemented in both /System/Library/PrivateFrameworks/SystemPolicy.framework/Versions/A/SystemPolicy and /usr/sbin/spctl. One of the two will be used. Which one is undefined.
+objc[32482]: Class AppWrapperPolicy is implemented in both /System/Library/PrivateFrameworks/SystemPolicy.framework/Versions/A/SystemPolicy and /usr/sbin/spctl. One of the two will be used. Which one is undefined.
+objc[32482]: Class SPLog is implemented in both /System/Library/PrivateFrameworks/SystemPolicy.framework/Versions/A/SystemPolicy and /usr/sbin/spctl. One of the two will be used. Which one is undefined.
+objc[32482]: Class MIS is implemented in both /System/Library/PrivateFrameworks/SystemPolicy.framework/Versions/A/SystemPolicy and /usr/sbin/spctl. One of the two will be used. Which one is undefined.
+objc[32482]: Class SPExecutionHistoryItem is implemented in both /System/Library/PrivateFrameworks/SystemPolicy.framework/Versions/A/SystemPolicy and /usr/sbin/spctl. One of the two will be used. Which one is undefined.
+objc[32482]: Class SPExecutionPolicyItem is implemented in both /System/Library/PrivateFrameworks/SystemPolicy.framework/Versions/A/SystemPolicy and /usr/sbin/spctl. One of the two will be used. Which one is undefined.
+objc[32482]: Class SPDeveloperPolicy is implemented in both /System/Library/PrivateFrameworks/SystemPolicy.framework/Versions/A/SystemPolicy and /usr/sbin/spctl. One of the two will be used. Which one is undefined.
+objc[32482]: Class GKScanResult is implemented in both /System/Library/PrivateFrameworks/SystemPolicy.framework/Versions/A/SystemPolicy and /usr/sbin/spctl. One of the two will be used. Which one is undefined.
+/Users/walker/Development/Piezography-Community/builds/Piezography-Community-Edition/Piezography-Community-Edition-v3.1.pkg: rejected
+source=Unnotarized Developer ID
+origin=Developer ID Installer: Walker Blackwell (E358X2LQLV)
+
