@@ -1,0 +1,90 @@
+10:14:34.139: \****************************************************************************************
+Beginning staple only of file at '/Users/walker/Development/Piezography-Community/builds/Piezography-Community-Edition-v3.1.pkg'
+****************************************************************************************
+
+10:14:34.140: Checking code signature...
+10:14:34.329: Result for /usr/sbin/spctl --assess --type install -vv /Users/walker/Development/Piezography-Community/builds/Piezography-Community-Edition-v3.1.pkg
+Termination status: 3
+StandardOut: (null)
+StandardError: /Users/walker/Development/Piezography-Community/builds/Piezography-Community-Edition-v3.1.pkg: rejected
+source=no usable signature
+
+10:14:34.330: Error 105553176794320 in spctl codesign verification: /Users/walker/Development/Piezography-Community/builds/Piezography-Community-Edition-v3.1.pkg: rejected
+source=no usable signature
+
+10:15:34.776: \****************************************************************************************
+Beginning staple only of file at '/Users/walker/Development/Piezography-Community/builds/Piezography-Community-Edition-v3.1.pkg'
+****************************************************************************************
+
+10:15:34.777: Checking code signature...
+10:15:34.963: Result for /usr/sbin/spctl --assess --type install -vv /Users/walker/Development/Piezography-Community/builds/Piezography-Community-Edition-v3.1.pkg
+Termination status: 3
+StandardOut: (null)
+StandardError: /Users/walker/Development/Piezography-Community/builds/Piezography-Community-Edition-v3.1.pkg: rejected
+source=no usable signature
+
+10:15:34.964: Error 105553176382032 in spctl codesign verification: /Users/walker/Development/Piezography-Community/builds/Piezography-Community-Edition-v3.1.pkg: rejected
+source=no usable signature
+
+10:21:26.623: \****************************************************************************************
+Beginning staple only of file at '/Users/walker/Development/Piezography-Community/builds/Piezography-Community-Edition-v3.1.pkg'
+****************************************************************************************
+
+10:21:26.624: Checking code signature...
+10:21:26.812: Result for /usr/sbin/spctl --assess --type install -vv /Users/walker/Development/Piezography-Community/builds/Piezography-Community-Edition-v3.1.pkg
+Termination status: 3
+StandardOut: (null)
+StandardError: /Users/walker/Development/Piezography-Community/builds/Piezography-Community-Edition-v3.1.pkg: rejected
+source=no usable signature
+
+10:21:26.813: Error 105553176553408 in spctl codesign verification: /Users/walker/Development/Piezography-Community/builds/Piezography-Community-Edition-v3.1.pkg: rejected
+source=no usable signature
+
+10:22:12.760: \****************************************************************************************
+Beginning staple only of file at '/Users/walker/Development/Piezography-Community/builds/Piezography-Community-Edition-v3.1.pkg'
+****************************************************************************************
+
+10:22:12.760: Checking code signature...
+10:22:13.194: Result for /usr/sbin/spctl --assess --type install -vv /Users/walker/Development/Piezography-Community/builds/Piezography-Community-Edition-v3.1.pkg
+Termination status: 3
+StandardOut: (null)
+StandardError: /Users/walker/Development/Piezography-Community/builds/Piezography-Community-Edition-v3.1.pkg: rejected
+source=Unnotarized Developer ID
+origin=Developer ID Installer: Walker Blackwell (E358X2LQLV)
+
+10:22:13.195: Error 105553176304912 in spctl codesign verification: /Users/walker/Development/Piezography-Community/builds/Piezography-Community-Edition-v3.1.pkg: rejected
+source=Unnotarized Developer ID
+origin=Developer ID Installer: Walker Blackwell (E358X2LQLV)
+
+10:26:50.119: \****************************************************************************************
+Beginning staple only of file at '/Users/walker/Development/Piezography-Community/builds/Piezography-Community-Edition-v3.1.pkg'
+****************************************************************************************
+
+10:26:50.119: Checking code signature...
+10:26:50.484: Result for /usr/sbin/spctl --assess --type install -vv /Users/walker/Development/Piezography-Community/builds/Piezography-Community-Edition-v3.1.pkg
+Termination status: 3
+StandardOut: (null)
+StandardError: /Users/walker/Development/Piezography-Community/builds/Piezography-Community-Edition-v3.1.pkg: rejected
+source=Unnotarized Developer ID
+origin=Developer ID Installer: Walker Blackwell (E358X2LQLV)
+
+10:26:50.485: Error 105553176557968 in spctl codesign verification: /Users/walker/Development/Piezography-Community/builds/Piezography-Community-Edition-v3.1.pkg: rejected
+source=Unnotarized Developer ID
+origin=Developer ID Installer: Walker Blackwell (E358X2LQLV)
+
+10:27:17.350: \****************************************************************************************
+Beginning staple only of file at '/Users/walker/Development/Piezography-Community/builds/Piezography-Community-Edition-v3.1.pkg'
+****************************************************************************************
+
+10:27:17.350: Checking code signature...
+10:27:17.548: Result for /usr/sbin/spctl --assess --type install -vv /Users/walker/Development/Piezography-Community/builds/Piezography-Community-Edition-v3.1.pkg
+Termination status: 3
+StandardOut: (null)
+StandardError: /Users/walker/Development/Piezography-Community/builds/Piezography-Community-Edition-v3.1.pkg: rejected
+source=Unnotarized Developer ID
+origin=Developer ID Installer: Walker Blackwell (E358X2LQLV)
+
+10:27:17.549: Error 105553176923280 in spctl codesign verification: /Users/walker/Development/Piezography-Community/builds/Piezography-Community-Edition-v3.1.pkg: rejected
+source=Unnotarized Developer ID
+origin=Developer ID Installer: Walker Blackwell (E358X2LQLV)
+

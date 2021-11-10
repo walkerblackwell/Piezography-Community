@@ -540,9 +540,9 @@
 						<key>BACKGROUND_PATH</key>
 						<dict>
 							<key>PATH</key>
-							<string>/Development/Piezography-Community/Sources/logo.png</string>
+							<string>Sources/logo.png</string>
 							<key>PATH_TYPE</key>
-							<integer>0</integer>
+							<integer>1</integer>
 						</dict>
 						<key>CUSTOM</key>
 						<true/>
@@ -555,9 +555,9 @@
 				<key>BACKGROUND_PATH</key>
 				<dict>
 					<key>PATH</key>
-					<string>/Development/Piezography-Community/Sources/logo.png</string>
+					<string>Sources/logo.png</string>
 					<key>PATH_TYPE</key>
-					<integer>0</integer>
+					<integer>1</integer>
 				</dict>
 				<key>CUSTOM</key>
 				<true/>
